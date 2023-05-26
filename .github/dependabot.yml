@@ -6,8 +6,8 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "18:15"
-    open-pull-requests-limit: 10
+      time: "18:22"
+    open-pull-requests-limit: 1
     labels:
       - dependencies
       - dependencies/dependabot
