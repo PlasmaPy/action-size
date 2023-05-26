@@ -95,6 +95,7 @@ jobs:
 ## License
 
 Copyright 2020 The Actions Ecosystem Authors.
+Copyright 2023 PlasmaPy Developers.
 
 Action Size is released under the [Apache License 2.0](./LICENSE).
 
