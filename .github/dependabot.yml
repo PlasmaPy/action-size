@@ -5,8 +5,8 @@ updates:
   - package-ecosystem: npm
     directory: "/"
     schedule:
-      interval: daily
-      time: "18:19"
+      interval: monthly
+      time: "08:37"
     open-pull-requests-limit: 5
     labels:
       - dependencies
