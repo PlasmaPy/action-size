@@ -78,7 +78,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions-ecosystem/action-size@v2
+      - uses: PlasmaPy/action-size@v2023.5.0
         id: size
 
       - uses: actions-ecosystem/action-remove-labels@v1
@@ -100,11 +100,11 @@ Action Size is released under the [Apache License 2.0](./LICENSE).
 
 <!-- badge links -->
 
-[actions-workflow-test]: https://github.com/actions-ecosystem/action-size/actions?query=workflow%3ATest
-[actions-workflow-test-badge]: https://img.shields.io/github/workflow/status/actions-ecosystem/action-size/Test?label=Test&style=for-the-badge&logo=github
+[actions-workflow-test]: https://github.com/PlasmaPy/action-size/actions?query=workflow%3ATest
+[actions-workflow-test-badge]: https://img.shields.io/github/workflow/status/PlasmaPy/action-size/Test?label=Test&style=for-the-badge&logo=github
 
-[release]: https://github.com/actions-ecosystem/action-size/releases
-[release-badge]: https://img.shields.io/github/v/release/actions-ecosystem/action-size?style=for-the-badge&logo=github
+[release]: https://github.com/PlasmaPy/action-size/releases
+[release-badge]: https://img.shields.io/github/v/release/PlasmaPy/action-size?style=for-the-badge&logo=github
 
 [license]: LICENSE
-[license-badge]: https://img.shields.io/github/license/actions-ecosystem/action-size?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/PlasmaPy/action-size?style=for-the-badge
